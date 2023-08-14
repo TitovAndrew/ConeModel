@@ -1,0 +1,80 @@
+Z:\VS C#\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe.config
+Z:\VS C#\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe
+Z:\VS C#\KGLaba5\KGLaba5\bin\Debug\KGLaba5.pdb
+Z:\VS C#\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csprojResolveAssemblyReference.cache
+Z:\VS C#\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+Z:\VS C#\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+Z:\VS C#\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+Z:\VS C#\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+Z:\VS C#\KGLaba5\KGLaba5\obj\Debug\KGLaba5.exe
+Z:\VS C#\KGLaba5\KGLaba5\obj\Debug\KGLaba5.pdb
+Z:\VS C#\KGLaba5 V2\KGLaba5\bin\Debug\KGLaba5.exe.config
+Z:\VS C#\KGLaba5 V2\KGLaba5\bin\Debug\KGLaba5.exe
+Z:\VS C#\KGLaba5 V2\KGLaba5\bin\Debug\KGLaba5.pdb
+Z:\VS C#\KGLaba5 V2\KGLaba5\obj\Debug\KGLaba5.csprojResolveAssemblyReference.cache
+Z:\VS C#\KGLaba5 V2\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+Z:\VS C#\KGLaba5 V2\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+Z:\VS C#\KGLaba5 V2\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+Z:\VS C#\KGLaba5 V2\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+Z:\VS C#\KGLaba5 V2\KGLaba5\obj\Debug\KGLaba5.exe
+Z:\VS C#\KGLaba5 V2\KGLaba5\obj\Debug\KGLaba5.pdb
+Z:\VS C#\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.exe.config
+Z:\VS C#\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.exe
+Z:\VS C#\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.pdb
+Z:\VS C#\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csprojResolveAssemblyReference.cache
+Z:\VS C#\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+Z:\VS C#\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+Z:\VS C#\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+Z:\VS C#\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+Z:\VS C#\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.exe
+Z:\VS C#\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.pdb
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.exe.config
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.exe
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.pdb
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csprojAssemblyReference.cache
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.exe
+D:\УчЙоба\КГ\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.pdb
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.exe.config
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.exe
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\bin\Debug\KGLaba5.pdb
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csprojAssemblyReference.cache
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.exe
+D:\УчЙоба\Компьютерная графика\KGLaba5 V3\KGLaba5\obj\Debug\KGLaba5.pdb
+D:\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe.config
+D:\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe
+D:\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.pdb
+D:\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csprojAssemblyReference.cache
+D:\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+D:\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+D:\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+D:\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+D:\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.exe
+D:\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.pdb
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe.config
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.pdb
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csprojAssemblyReference.cache
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.exe
+D:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.pdb
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe.config
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.exe
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\bin\Debug\KGLaba5.pdb
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.AssemblyReference.cache
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Form1.resources
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.Properties.Resources.resources
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.GenerateResource.cache
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.csproj.CoreCompileInputs.cache
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.exe
+E:\УчЙоба\Компьютерная графика\KGLaba5\KGLaba5\obj\Debug\KGLaba5.pdb
